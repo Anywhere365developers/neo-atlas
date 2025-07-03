@@ -8,11 +8,11 @@ This slice of **Neo Atlas** is for the people who **deploy, configure and main
 
 ### What you’ll find here
 
-| Product / Console             | Primary audience                 | Typical jobs                                                          | Jump‑in page               |
-| ----------------------------- | -------------------------------- | --------------------------------------------------------------------- | -------------------------- |
-| **OnePortal**                 | Platform & Contact‑Centre Admins | Tenant setup, authentication, UCC management, plugin toggles, updates | OnePortal → Overview       |
-| **WebAgent (Administration)** | Product Admins                   | Packaging, CRM deployments, capacity rules, branding                  | WebAgent Admin → Overview  |
-| **Dialogue Studio**           | Admins & Developers              | Low‑code flow design, testing, publishing, version control            | Dialogue Studio → Overview |
+| Product / Console             | Primary audience                 | Typical jobs                                                          | Jump‑in page                              |
+| ----------------------------- | -------------------------------- | --------------------------------------------------------------------- | ----------------------------------------- |
+| **OnePortal**                 | Platform & Contact‑Centre Admins | Tenant setup, authentication, UCC management, plugin toggles, updates | [Broken link](broken-reference "mention") |
+| **WebAgent (Administration)** | Product Admins                   | Packaging, CRM deployments, capacity rules, branding                  | [Broken link](broken-reference "mention") |
+| **Dialogue Studio**           | Admins & Developers              | Low‑code flow design, testing, publishing, version control            | [Broken link](broken-reference "mention") |
 
 {% hint style="info" %}
 Unsure where to start? If you’re standing up a fresh tenant, begin with **OnePortal → Planning & Requirements** and follow the left‑to‑right order of sections.
