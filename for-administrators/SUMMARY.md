@@ -5,21 +5,19 @@
 ## OnePortal
 
 * [Introduction to OnePortal](oneportal/introduction-to-oneportal.md)
-
-***
-
-* [Watch the Interactive Demos](watch-the-interactive-demos/README.md)
-  * [How to Schedule a Bundle Update](watch-the-interactive-demos/how-to-schedule-a-bundle-update.md)
-  * [How to Delete a Scheduled Bundle Update](watch-the-interactive-demos/how-to-delete-a-scheduled-bundle-update.md)
-  * [How to Request a Full Restart](watch-the-interactive-demos/how-to-request-a-full-restart.md)
-  * [How to Request an App Pool Restart](watch-the-interactive-demos/how-to-request-an-app-pool-restart.md)
-  * [How to Download Logfiles](watch-the-interactive-demos/how-to-download-logfiles.md)
-  * [How to Add an Additional UCC Feature](watch-the-interactive-demos/how-to-add-an-additional-ucc-feature.md)
-  * [How to Add an Additional Endpoint](watch-the-interactive-demos/how-to-add-an-additional-endpoint.md)
-  * [How to Delete an Additional Endpoint](watch-the-interactive-demos/how-to-delete-an-additional-endpoint.md)
-  * [How to change a Line URI (Phone number)](watch-the-interactive-demos/how-to-change-a-line-uri-phone-number.md)
-  * [How to Request a Graph Presence Reset](watch-the-interactive-demos/how-to-request-a-graph-presence-reset.md)
-  * [How to Activate Safemode for Dialogue Studio](watch-the-interactive-demos/how-to-activate-safemode-for-dialogue-studio.md)
+* [Getting Started](oneportal/getting-started/README.md)
+  * [Watch the Interactive Demos](oneportal/getting-started/watch-the-interactive-demos/README.md)
+    * [How to Schedule a Bundle Update](oneportal/getting-started/watch-the-interactive-demos/how-to-schedule-a-bundle-update.md)
+    * [How to Delete a Scheduled Bundle Update](oneportal/getting-started/watch-the-interactive-demos/how-to-delete-a-scheduled-bundle-update.md)
+    * [How to Request a Full Restart](oneportal/getting-started/watch-the-interactive-demos/how-to-request-a-full-restart.md)
+    * [How to Request an App Pool Restart](oneportal/getting-started/watch-the-interactive-demos/how-to-request-an-app-pool-restart.md)
+    * [How to Download Logfiles](oneportal/getting-started/watch-the-interactive-demos/how-to-download-logfiles.md)
+    * [How to Add an Additional UCC Feature](oneportal/getting-started/watch-the-interactive-demos/how-to-add-an-additional-ucc-feature.md)
+    * [How to Add an Additional Endpoint](oneportal/getting-started/watch-the-interactive-demos/how-to-add-an-additional-endpoint.md)
+    * [How to Delete an Additional Endpoint](oneportal/getting-started/watch-the-interactive-demos/how-to-delete-an-additional-endpoint.md)
+    * [How to change a Line URI (Phone number)](oneportal/getting-started/watch-the-interactive-demos/how-to-change-a-line-uri-phone-number.md)
+    * [How to Request a Graph Presence Reset](oneportal/getting-started/watch-the-interactive-demos/how-to-request-a-graph-presence-reset.md)
+    * [How to Activate Safemode for Dialogue Studio](oneportal/getting-started/watch-the-interactive-demos/how-to-activate-safemode-for-dialogue-studio.md)
 
 ## WebAgent (Administration)
 
