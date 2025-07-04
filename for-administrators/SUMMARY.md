@@ -6,6 +6,10 @@
 
 * [Introduction](oneportal/introduction.md)
 
+***
+
+* [Interactive Demos](interactive-demos.md)
+
 ## WebAgent (Administration)
 
 * [Introduction](webagent-administration/introduction.md)
