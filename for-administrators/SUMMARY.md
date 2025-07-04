@@ -100,6 +100,40 @@
 
 * [Introduction](dialogue-studio/introduction.md)
 
+***
+
+* [Getting Started](getting-started/README.md)
+  * [Overview & UI tour](getting-started/overview-and-ui-tour.md)
+  * [Deployment](getting-started/deployment.md)
+  * [Quick Starts](getting-started/quick-starts/README.md)
+    * [Simple IVR](getting-started/quick-starts/simple-ivr.md)
+    * [Simple ChatBot](getting-started/quick-starts/simple-chatbot.md)
+    * [Simple VoiceBot](getting-started/quick-starts/simple-voicebot.md)
+* [Core Concepts](core-concepts/README.md)
+  * [Flows & nodes](core-concepts/flows-and-nodes.md)
+  * [Dialogue Manager](core-concepts/dialogue-manager.md)
+* [Node Reference](node-reference/README.md)
+  * [Core nodes](node-reference/core-nodes.md)
+  * [Dialogue Manager nodes](node-reference/dialogue-manager-nodes.md)
+  * [Other nodes](node-reference/other-nodes.md)
+* [Scenarios & Integrations](scenarios-and-integrations/README.md)
+  * [Connect with Azure Open AI](scenarios-and-integrations/connect-with-azure-open-ai.md)
+  * [Connect with Google Dialogflow](scenarios-and-integrations/connect-with-google-dialogflow.md)
+  * [Connect with Microsoft Dynamics 365](scenarios-and-integrations/connect-with-microsoft-dynamics-365.md)
+  * [Connect with Microsoft Graph](scenarios-and-integrations/connect-with-microsoft-graph.md)
+  * [Connect with ServiceNow](scenarios-and-integrations/connect-with-servicenow.md)
+  * [Connect with Recording API](scenarios-and-integrations/connect-with-recording-api.md)
+  * [Configure SSML](scenarios-and-integrations/configure-ssml.md)
+  * [Configure catch](scenarios-and-integrations/configure-catch.md)
+  * [Last-agent routing](scenarios-and-integrations/last-agent-routing.md)
+* [Examples](examples/README.md)
+  * [Setting up remote Git](examples/setting-up-remote-git.md)
+  * [Export configuration](examples/export-configuration.md)
+  * [Delete server configuration](examples/delete-server-configuration.md)
+  * [Temporary disable server configuration](examples/temporary-disable-server-configuration.md)
+  * [Disable all debug nodes](examples/disable-all-debug-nodes.md)
+  * [Uninstall manual](examples/uninstall-manual.md)
+
 ## Dialogue AI Assist
 
 * [Introduction](dialogue-ai-assist/introduction.md)

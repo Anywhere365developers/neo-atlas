@@ -1,0 +1,2 @@
+# Delete server configuration
+
