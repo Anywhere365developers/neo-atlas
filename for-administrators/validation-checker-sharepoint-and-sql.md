@@ -1,0 +1,2 @@
+# Validation checker (SharePoint & SQL)
+
