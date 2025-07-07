@@ -2,7 +2,7 @@
 
 ## Welcome, Everyday Users 👋
 
-This section of **Neo Atlas** is for the people who interact with customers and monitor performance in **AnywhereNow NEO**—namely **agents, supervisors and managers**. It groups together every task‑oriented topic you need, so you can resolve dialogues fast and make data‑driven decisions without wading through admin‑only material.
+This section of **Neo Atlas** is for the people who interact with customers and monitor performance in **AnywhereNow NEO**—namely **agents, supervisors, and managers**. It groups together every task‑oriented topic you need, so you can resolve dialogues fast and make data‑driven decisions without wading through admin‑only material.
 
 ***
 
@@ -11,7 +11,7 @@ This section of **Neo Atlas** is for the people who interact with customers and 
 | Product          | Who it’s for           | Why you’d use it                                                             | Jump‑in page                              |
 | ---------------- | ---------------------- | ---------------------------------------------------------------------------- | ----------------------------------------- |
 | **WebAgent**     | Agents & Supervisors   | Handle voice, chat and email conversations, powered by AI suggestions.       | [Broken link](broken-reference "mention") |
-| **NEO Insights** | Supervisors & Managers | Real‑time dashboards, historical reports and KPIs across your contact centre | NEO Insights                              |
+| **NEO Insights** | Supervisors & Managers | Real‑time dashboards, historical reports and KPIs across your contact centre | [Broken link](broken-reference "mention") |
 
 {% hint style="info" %}
 &#x20;Short on time? Use the table above to jump directly into your everyday workspace.
